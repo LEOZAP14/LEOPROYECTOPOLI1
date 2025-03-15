@@ -7,7 +7,7 @@ body {
 }
 
 .navbar-brand, .nav-link {
-    color: white !important;
+    color: white !important;https://github.com/LEOZAP14/LEOPROYECTOPOLI1/blob/main/styles.CSS
 }
 
 .card {
@@ -35,4 +35,10 @@ body {
 footer {
     background-color: #28a745;
     color: white;
+}
+
+video-pequeno {
+    width: 60%; /* El video ocupará el 60% del ancho de su contenedor */
+    display: block; /* Centra el video horizontalmente */
+    margin: 0 auto; /* Centra el video horizontalmente */
 }
