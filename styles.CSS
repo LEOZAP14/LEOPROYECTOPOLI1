@@ -38,7 +38,7 @@ footer {
 }
 
 video-pequeno {
-    width: 60%; /* El video ocupará el 60% del ancho de su contenedor */
-    display: block; /* Centra el video horizontalmente */
-    margin: 0 auto; /* Centra el video horizontalmente */
+    width: 60%; 
+    display: block; 
+    margin: 0 auto; 
 }
