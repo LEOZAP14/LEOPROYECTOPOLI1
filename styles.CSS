@@ -37,7 +37,7 @@ footer {
     color: white;
 }
 
-video-pequeno {
+.video-pequeno {
     width: 60%; 
     display: block; 
     margin: 0 auto; 
